@@ -1,0 +1,1 @@
+print(len([x for x in str(input()).strip().split(' ') if x is not '']))
